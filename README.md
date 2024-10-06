@@ -10,7 +10,7 @@ Welcome to CASCADE, a GenAI-driven study companion designed to revolutionize per
 ## Gen-AI Powered Features
 - **Adaptive Study Plans** works adjusting to your study schedules, preferences and progress ensuring that every session is optimized for your learning style.
 
-- **Quiz Generation** is like having a personal coach that challenges you with questions tailored to your current knowledge level, pushing you towards mastery of the subject matter.
+- **Quiz Generation** is like having a personal coach that challenges you with questions tailored to your current knowledge level plus providing you with personal assessment that will help pushing you towards mastery of the subject matter.
 
 - **Skills Tracking & Career Roadmap** is your compass in the academic world, guiding you through the skills you need to acquire and aligning them with your future career aspirations.
 
