@@ -14,7 +14,7 @@ Ethical Use:
 This software cannot be used for unethical purposes. It must not violate any laws, regulations, or ethical standards.
 Termination of Rights:
 
-### The creators, Harsh Dayal and Saanvi Sharma, reserve the right to terminate your right to use this software at any time.
+### The creators reserve the right to terminate your right to use this software at any time.
 
 ## Disclaimer
 This software is provided as is, without any warranties or guarantees. The creators are not liable for any damages or consequences arising from its use.
