@@ -56,8 +56,6 @@ This project is licensed under a custom license - see the [LICENSE](https://gith
 
 
 ## Contact
-Made with Love By Harsh Dayal [Github](https://github.com/KaosV2) and Saanvi Sharma [Github](https://github.com/ConfusedReal)!
-
 For any queries or support, please open an issue on this repository or contact us at dayal700007@gmail.com or saanvisharma004@gmail.com.
 
 ## Thank You
