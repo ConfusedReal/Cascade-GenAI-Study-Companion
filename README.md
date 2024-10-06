@@ -1,7 +1,7 @@
 # CASCADE - Your GenAI-Powered Study Companion
 
 
-![]([https://github.com/Kaosv2/Cascade-GenAI-Study-Companion/blob/main/Assets/Frame-43(2).gif](https://github.com/ConfusedReal/Cascade-GenAI-Study-Companion/blob/main/Assets/Frame-43(2).gif))
+![](https://github.com/ConfusedReal/Cascade-GenAI-Study-Companion/blob/main/Assets/Frame-43(2).gif)
 
 
 ## Introduction
@@ -27,7 +27,7 @@ Welcome to CASCADE, a GenAI-driven study companion designed to revolutionize per
 ## Installation
 
 ### Step 1: Download the Setup
-Download the latest setup file by clicking [here](https://github.com/Kaosv2/Cascade-GenAI-Study-Companion/releases/download/V3.6/Cascade.Setup.exe).
+Download the latest setup file by clicking [here](https://github.com/ConfusedReal/Cascade-GenAI-Study-Companion/releases/download/V1.2/Cascade.Setup.exe).
 
 ### Step 2: Install Dependencies
 The installer will automatically ask you if you want to download and install dependencies, Click yes and let the installer do its magic.
